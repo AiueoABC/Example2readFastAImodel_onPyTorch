@@ -1,2 +1,2 @@
 # Example2readFastAImodel_onPyTorch
-worked with fastai_v1
+I tried and worked with fastai_v1 and fastai_v2.
